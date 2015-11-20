@@ -1,34 +1,4 @@
-<!DOCTYPE HTML>
-<html>
-<?php
-    
-?>
-
-  <body>
-    <div class="container">
-      <header class="page-header">
-        <h1>Booking Seven</h1>
-      </header>
-      <section class="row">
-        <div class="col-lg-2" id="Menu">
-          <h2>Menu</h2>
-          <ul>
-            <li><a href="#">Gestion profil</a></li>
-            <li><a href="#">Gerer planing</a></li>
-            <li><a href="#">Gerer groupes</a></li>
-          </ul>
-        </div>
-        <div class="col-lg-6">
-          <h2>Dernières infos</h2>
-          <section class="row">
-            <div class="col-lg-5 col-sm-5 col-md-5"><img src="images/1.jpg"/></div>
-            <div class="col-lg-5 col-sm-5 col-md-5"><img src="images/2.jpg"/></div>
-            <div class="col-lg-5 col-sm-5 col-md-5"><img src="images/3.jpg"/></div>
-            <div class="col-lg-5 col-sm-5 col-md-5"><img src="images/4.jpg"/></div>
-            <div class="col-lg-5 col-sm-5 col-md-5"><img src="images/5.jpg"/></div>
-          </section>
-        </div>
-        <div class ="col-lg-2">
+<div class ="col-lg-2">
           <h2>Mes Menus</h2>
 		  <section class="row">
 			<div class = "col-lg-12" id="Recherche_groupe">
@@ -74,7 +44,3 @@
                 </div>
             </div>
         </div>
-      </section>
-    </div>
-  </body>
-</html>
