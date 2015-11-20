@@ -1,4 +1,4 @@
-<div class ="col-lg-4">
+<div class ="col-lg-3">
           <h2>Mes Menus</h2>
 		  <section class="row">
 			<div class = "col-lg-12" id="Recherche_groupe">
